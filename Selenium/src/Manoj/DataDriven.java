@@ -26,6 +26,8 @@ public class DataDriven {
 		 * System.out.println("   "); }
 		 */
 
+		webdriver driver;
+		
 		FirefoxDriver driver = new FirefoxDriver();
 
 		File src = new File("E:\\SELENIUMFEB2018\\DataDriven.xlsx");
