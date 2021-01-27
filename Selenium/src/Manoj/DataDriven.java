@@ -26,7 +26,7 @@ public class DataDriven {
 		 * System.out.println("   "); }
 		 */
 
-		webdriver driver;
+		
 		
 		FirefoxDriver driver = new FirefoxDriver();
 
